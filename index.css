@@ -232,8 +232,6 @@ html, body {
 }
 
 .lorem{
-    display: flex;
-    justify-content: center;
     margin: 0 56px 109px 56px;
     text-align: center;
     font-family: "roboto";
